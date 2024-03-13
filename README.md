@@ -1,4 +1,4 @@
-v<h1 align="center">Hi 👋, I'm Jakub Sajer</h1>
+v<h1 align="center">Hi 👋, I'm Jakub</h1>
 <h3 align="center">An IT student from Czechia</h3>
 
 <h3 align="left">Connect with me:</h3>
