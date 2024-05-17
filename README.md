@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">I'm an IT student from Czechia</h3>
 
+🌱 I’m currently learning **ReactTS**
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
